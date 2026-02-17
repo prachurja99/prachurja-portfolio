@@ -80,7 +80,7 @@ export default function HomePage() {
           className="flex justify-center"
         >
           <Image
-            src="/profile.jpg"
+            src="/profile.png"
             alt="Prachurja Bhattacharjee"
             width={380}
             height={380}
